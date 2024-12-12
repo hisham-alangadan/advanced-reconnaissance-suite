@@ -1,0 +1,1 @@
+- Add some animations to the magnifying glass in the first page
