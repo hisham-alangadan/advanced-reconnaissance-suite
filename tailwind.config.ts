@@ -9,10 +9,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
+        background1: "#110050",
         foreground: "var(--foreground)",
       },
     },
+    fontFamily: {
+      'researcher': ['researcher'],
+      'anonymus': ['anonymus']
+    }
   },
   plugins: [],
 } satisfies Config;
