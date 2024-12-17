@@ -15,7 +15,8 @@ export default {
     },
     fontFamily: {
       'researcher': ['researcher'],
-      'anonymus': ['anonymus']
+      'anonymus': ['anonymus'],
+      'nicomoji': ['nicomoji']
     }
   },
   plugins: [],

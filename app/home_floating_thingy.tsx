@@ -1,9 +1,9 @@
-import lockimg from './styles/image 2.png'
+import lockimg from '../public/image 2.png'
 
 export default function Home_floating_thingy() {
     return (
         // <div className="absolute top-[85vh] ml-[10vw] w-[100%] h-[100%] border">
-        <div className="absolute left-[10vw] top-[85vh] w-[80vw] h-[100%] z-20">
+        <div className="absolute left-[10vw] top-[100vh] w-[80vw] h-[100%] z-20">
             <svg className="w-[80vw] absolute" width="1750" height="589" viewBox="0 0 1750 589" fill="#0D2042" xmlns="http://www.w3.org/2000/svg">
                 <path d="M160.01 54.5H1695.5V459V460.851L1696.8 462.166L1745.5 511.351V584.5H1042.85L993.666 535.802L992.351 534.5H990.5H700.5H698.636L697.318 535.818L648.636 584.5H4.5V4.5H107.649L156.845 53.1981L158.16 54.5H160.01Z" stroke="#008F11" stroke-width="9"/>
             </svg>

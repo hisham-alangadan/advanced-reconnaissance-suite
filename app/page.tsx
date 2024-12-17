@@ -1,5 +1,4 @@
-import Image from "next/image";
-import Home_main from "./home_main";
+import Hero from "./hero";
 import Home_floating_thingy from "./home_floating_thingy";
 import Cards_grid from "./cards_grid";
 import Home_features from "./home_features";
@@ -7,7 +6,7 @@ import Home_features from "./home_features";
 export default function Home() {
     return (
         <div>
-            <Home_main />
+            <Hero />
             <Home_floating_thingy />
             <Cards_grid />
             <Home_features />

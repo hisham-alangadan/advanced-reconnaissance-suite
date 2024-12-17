@@ -4,12 +4,17 @@
 
 @font-face {
   font-family: "researcher";
-  src: url("../fonts/researcher-researcher-bold-700.ttf");
+  src: url("../../public/fonts/researcher-researcher-bold-700.ttf");
 }
 
 @font-face {
   font-family: "anonymus";
-  src: url("../fonts/AnonymousPro-Regular.ttf");
+  src: url("../../public/fonts/AnonymousPro-Regular.ttf");
+}
+
+@font-face {
+  font-family: "nicomoji";
+  src: url("../../public/fonts/NicoMoji-Regular.ttf");
 }
 
 :root {

@@ -1,6 +1,6 @@
 // import bg_img from './styles/bg_cards_grid.jpg'
-import bg_img from './styles/hexdump_scrnshot.png'
-import globe from './styles/Globe.svg'
+import bg_img from '../public/hexdump_scrnshot.png'
+import globe from '../public/Globe.svg'
 
 export default function Cards_grid() {
 
